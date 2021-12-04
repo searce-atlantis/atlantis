@@ -1,0 +1,3 @@
+git remote add origin https://github.com/searce-atlantis/atlantis.git
+git branch -M main
+#git push -u origin main
